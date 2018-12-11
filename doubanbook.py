@@ -1,3 +1,4 @@
+#encoding=utf-8
 '''
 	遍历所有页面，通过next href判断是否结束	
 '''
